@@ -9,8 +9,8 @@ https://developer.riotgames.com/ is where you sign up to get development api key
 key expires after 24 hours. 
 
 ###### RATE LIMITS
-20 requests every 1 seconds(s)
-100 requests every 2 minutes(s)
+- 20 requests every 1 seconds(s)
+- 100 requests every 2 minutes(s)
 
 
 
